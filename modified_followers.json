@@ -1,0 +1,316 @@
+{
+    "followers": [
+        {
+            "id": "2345678901",
+            "username": "janedoe",
+            "name": "Jordan Lee",
+            "followed_at": "2021-09-10T08:22:34Z"
+        },
+        {
+            "id": "3456789012",
+            "username": "techguru",
+            "name": "Reese Miller",
+            "followed_at": "2022-03-22T16:15:12Z"
+        },
+        {
+            "id": "1000000001",
+            "username": "follower1",
+            "name": "Taylor Brown",
+            "followed_at": "2024-01-01T10:00:00Z"
+        },
+        {
+            "id": "1000000002",
+            "username": "follower2",
+            "name": "Jamie Johnson",
+            "followed_at": "2024-01-02T11:00:00Z"
+        },
+        {
+            "id": "1000000003",
+            "username": "follower3",
+            "name": "Quinn Stewart",
+            "followed_at": "2024-01-03T12:00:00Z"
+        },
+        {
+            "id": "1000000004",
+            "username": "follower4",
+            "name": "Jordan Lee",
+            "followed_at": "2024-01-04T13:00:00Z"
+        },
+        {
+            "id": "1000000005",
+            "username": "follower5",
+            "name": "Jordan Lee",
+            "followed_at": "2024-01-05T14:00:00Z"
+        },
+        {
+            "id": "1000000006",
+            "username": "follower6",
+            "name": "Charlie Davis",
+            "followed_at": "2024-01-06T15:00:00Z"
+        },
+        {
+            "id": "1000000007",
+            "username": "follower7",
+            "name": "Quinn Stewart",
+            "followed_at": "2024-01-07T16:00:00Z"
+        },
+        {
+            "id": "1000000008",
+            "username": "follower8",
+            "name": "Alex Smith",
+            "followed_at": "2024-01-08T17:00:00Z"
+        },
+        {
+            "id": "1000000009",
+            "username": "follower9",
+            "name": "Casey Kim",
+            "followed_at": "2024-01-09T18:00:00Z"
+        },
+        {
+            "id": "1000000010",
+            "username": "follower10",
+            "name": "Casey Kim",
+            "followed_at": "2024-01-10T19:00:00Z"
+        },
+        {
+            "id": "1000000011",
+            "username": "follower11",
+            "name": "Riley Perez",
+            "followed_at": "2024-01-11T20:00:00Z"
+        },
+        {
+            "id": "1000000012",
+            "username": "follower12",
+            "name": "Riley Perez",
+            "followed_at": "2024-01-12T21:00:00Z"
+        },
+        {
+            "id": "1000000013",
+            "username": "follower13",
+            "name": "Avery Martinez",
+            "followed_at": "2024-01-13T22:00:00Z"
+        },
+        {
+            "id": "1000000014",
+            "username": "follower14",
+            "name": "Avery Martinez",
+            "followed_at": "2024-01-14T23:00:00Z"
+        },
+        {
+            "id": "1000000015",
+            "username": "follower15",
+            "name": "Morgan Clark",
+            "followed_at": "2024-01-15T00:00:00Z"
+        },
+        {
+            "id": "1000000016",
+            "username": "follower16",
+            "name": "Jordan Lee",
+            "followed_at": "2024-01-16T01:00:00Z"
+        },
+        {
+            "id": "1000000017",
+            "username": "follower17",
+            "name": "Jamie Johnson",
+            "followed_at": "2024-01-17T02:00:00Z"
+        },
+        {
+            "id": "1000000018",
+            "username": "follower18",
+            "name": "Jordan Lee",
+            "followed_at": "2024-01-18T03:00:00Z"
+        },
+        {
+            "id": "1000000019",
+            "username": "follower19",
+            "name": "Riley Perez",
+            "followed_at": "2024-01-19T04:00:00Z"
+        },
+        {
+            "id": "1000000020",
+            "username": "follower20",
+            "name": "Reese Miller",
+            "followed_at": "2024-01-20T05:00:00Z"
+        },
+        {
+            "id": "1000000021",
+            "username": "follower21",
+            "name": "Peyton Murphy",
+            "followed_at": "2024-01-21T06:00:00Z"
+        },
+        {
+            "id": "1000000022",
+            "username": "follower22",
+            "name": "Reese Miller",
+            "followed_at": "2024-01-22T07:00:00Z"
+        },
+        {
+            "id": "1000000023",
+            "username": "follower23",
+            "name": "Avery Martinez",
+            "followed_at": "2024-01-23T08:00:00Z"
+        },
+        {
+            "id": "1000000024",
+            "username": "follower24",
+            "name": "Peyton Murphy",
+            "followed_at": "2024-01-24T09:00:00Z"
+        },
+        {
+            "id": "1000000025",
+            "username": "follower25",
+            "name": "Casey Kim",
+            "followed_at": "2024-01-25T10:00:00Z"
+        },
+        {
+            "id": "1000000026",
+            "username": "follower26",
+            "name": "Avery Martinez",
+            "followed_at": "2024-01-26T11:00:00Z"
+        },
+        {
+            "id": "1000000027",
+            "username": "follower27",
+            "name": "Morgan Clark",
+            "followed_at": "2024-01-27T12:00:00Z"
+        },
+        {
+            "id": "1000000028",
+            "username": "follower28",
+            "name": "Riley Perez",
+            "followed_at": "2024-01-28T13:00:00Z"
+        },
+        {
+            "id": "1000000029",
+            "username": "follower29",
+            "name": "Taylor Brown",
+            "followed_at": "2024-01-29T14:00:00Z"
+        },
+        {
+            "id": "1000000030",
+            "username": "follower30",
+            "name": "Avery Martinez",
+            "followed_at": "2024-01-30T15:00:00Z"
+        },
+        {
+            "id": "1000000031",
+            "username": "follower31",
+            "name": "Charlie Davis",
+            "followed_at": "2024-01-31T16:00:00Z"
+        },
+        {
+            "id": "1000000032",
+            "username": "follower32",
+            "name": "Avery Martinez",
+            "followed_at": "2024-02-01T17:00:00Z"
+        },
+        {
+            "id": "1000000033",
+            "username": "follower33",
+            "name": "Alex Smith",
+            "followed_at": "2024-02-02T18:00:00Z"
+        },
+        {
+            "id": "1000000034",
+            "username": "follower34",
+            "name": "Sam Patel",
+            "followed_at": "2024-02-03T19:00:00Z"
+        },
+        {
+            "id": "1000000035",
+            "username": "follower35",
+            "name": "Avery Martinez",
+            "followed_at": "2024-02-04T20:00:00Z"
+        },
+        {
+            "id": "1000000036",
+            "username": "follower36",
+            "name": "Sam Patel",
+            "followed_at": "2024-02-05T21:00:00Z"
+        },
+        {
+            "id": "1000000037",
+            "username": "follower37",
+            "name": "Jordan Lee",
+            "followed_at": "2024-02-06T22:00:00Z"
+        },
+        {
+            "id": "1000000038",
+            "username": "follower38",
+            "name": "Casey Kim",
+            "followed_at": "2024-02-07T23:00:00Z"
+        },
+        {
+            "id": "1000000039",
+            "username": "follower39",
+            "name": "Morgan Clark",
+            "followed_at": "2024-02-08T00:00:00Z"
+        },
+        {
+            "id": "1000000040",
+            "username": "follower40",
+            "name": "Morgan Clark",
+            "followed_at": "2024-02-09T01:00:00Z"
+        },
+        {
+            "id": "1000000041",
+            "username": "follower41",
+            "name": "Harper Bell",
+            "followed_at": "2024-02-10T02:00:00Z"
+        },
+        {
+            "id": "1000000042",
+            "username": "follower42",
+            "name": "Sam Patel",
+            "followed_at": "2024-02-11T03:00:00Z"
+        },
+        {
+            "id": "1000000043",
+            "username": "follower43",
+            "name": "Quinn Stewart",
+            "followed_at": "2024-02-12T04:00:00Z"
+        },
+        {
+            "id": "1000000044",
+            "username": "follower44",
+            "name": "Jordan Lee",
+            "followed_at": "2024-02-13T05:00:00Z"
+        },
+        {
+            "id": "1000000045",
+            "username": "follower45",
+            "name": "Jordan Lee",
+            "followed_at": "2024-02-14T06:00:00Z"
+        },
+        {
+            "id": "1000000046",
+            "username": "follower46",
+            "name": "Sam Patel",
+            "followed_at": "2024-02-15T07:00:00Z"
+        },
+        {
+            "id": "1000000047",
+            "username": "follower47",
+            "name": "Reese Miller",
+            "followed_at": "2024-02-16T08:00:00Z"
+        },
+        {
+            "id": "1000000048",
+            "username": "follower48",
+            "name": "Jamie Johnson",
+            "followed_at": "2024-02-17T09:00:00Z"
+        },
+        {
+            "id": "1000000049",
+            "username": "follower49",
+            "name": "Charlie Davis",
+            "followed_at": "2024-02-18T10:00:00Z"
+        },
+        {
+            "id": "1000000050",
+            "username": "follower50",
+            "name": "Jordan Lee",
+            "followed_at": "2024-02-19T11:00:00Z"
+        }
+    ]
+}
